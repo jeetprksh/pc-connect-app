@@ -1,0 +1,7 @@
+{
+  "name": "pc-connec-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
